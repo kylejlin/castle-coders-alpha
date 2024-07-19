@@ -1,23 +1,33 @@
 {
   "files": {
-    "main.css": "/castle-coders-alpha/static/css/main.5bc1da47.css",
-    "main.js": "/castle-coders-alpha/static/js/main.9dd4ec3d.js",
+    "main.css": "/castle-coders-alpha/static/css/main.aa83b9b6.css",
+    "main.js": "/castle-coders-alpha/static/js/main.9ef35e2a.js",
     "static/js/453.c7b2654d.chunk.js": "/castle-coders-alpha/static/js/453.c7b2654d.chunk.js",
+    "static/media/home_background_hajime_kara.png": "/castle-coders-alpha/static/media/home_background_hajime_kara.4a2c5938a2283b30b79b.png",
+    "static/media/home_background_tsuzuki_kara.png": "/castle-coders-alpha/static/media/home_background_tsuzuki_kara.8920a20bc2db70e44c39.png",
+    "static/media/home_background.png": "/castle-coders-alpha/static/media/home_background.cd0695e3811dd7b1f4af.png",
+    "static/media/home_background_left.png": "/castle-coders-alpha/static/media/home_background_left.5ced0e0b6544ffa45c4e.png",
+    "static/media/home_background_right.png": "/castle-coders-alpha/static/media/home_background_right.ad4eef447a85089fda68.png",
+    "static/media/home_background_top.png": "/castle-coders-alpha/static/media/home_background_top.697b7d1e31564ff52940.png",
     "static/media/witch_wand_raised.png": "/castle-coders-alpha/static/media/witch_wand_raised.53f0d0a32e3b903270fc.png",
     "static/media/witch_wand_lowered.png": "/castle-coders-alpha/static/media/witch_wand_lowered.8c3d90f34c476ac76124.png",
     "static/media/witch_idle.png": "/castle-coders-alpha/static/media/witch_idle.9d11e38e1b4289419703.png",
     "static/media/hero.png": "/castle-coders-alpha/static/media/hero.b3c6e446a86fd41ca157.png",
     "static/media/goblin.png": "/castle-coders-alpha/static/media/goblin.940426bcab991d76a040.png",
+    "static/media/home_background_start_button.png": "/castle-coders-alpha/static/media/home_background_start_button.4828830ff96ae33a1213.png",
+    "static/media/home_background_shop_button.png": "/castle-coders-alpha/static/media/home_background_shop_button.f350bfa63e6e12425dc0.png",
+    "static/media/home_background_settings_button.png": "/castle-coders-alpha/static/media/home_background_settings_button.432afd99ff400b7dd503.png",
+    "static/media/home_background_rough_sketch.jpg": "/castle-coders-alpha/static/media/home_background_rough_sketch.2f7ebc2ce782ab2cf860.jpg",
     "static/media/background.jpg": "/castle-coders-alpha/static/media/background.252a896f54c693d3262e.jpg",
     "static/media/heart_mark.png": "/castle-coders-alpha/static/media/heart_mark.8b22a05f9e0eed5003ec.png",
     "service-worker.js": "/castle-coders-alpha/service-worker.js",
     "index.html": "/castle-coders-alpha/index.html",
-    "main.5bc1da47.css.map": "/castle-coders-alpha/static/css/main.5bc1da47.css.map",
-    "main.9dd4ec3d.js.map": "/castle-coders-alpha/static/js/main.9dd4ec3d.js.map",
+    "main.aa83b9b6.css.map": "/castle-coders-alpha/static/css/main.aa83b9b6.css.map",
+    "main.9ef35e2a.js.map": "/castle-coders-alpha/static/js/main.9ef35e2a.js.map",
     "453.c7b2654d.chunk.js.map": "/castle-coders-alpha/static/js/453.c7b2654d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5bc1da47.css",
-    "static/js/main.9dd4ec3d.js"
+    "static/css/main.aa83b9b6.css",
+    "static/js/main.9ef35e2a.js"
   ]
 }
