@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/castle-coders-alpha/static/css/main.aa83b9b6.css",
-    "main.js": "/castle-coders-alpha/static/js/main.9ef35e2a.js",
+    "main.css": "/castle-coders-alpha/static/css/main.134d4ba3.css",
+    "main.js": "/castle-coders-alpha/static/js/main.3bdbf785.js",
     "static/js/453.c7b2654d.chunk.js": "/castle-coders-alpha/static/js/453.c7b2654d.chunk.js",
     "static/media/home_background_hajime_kara.png": "/castle-coders-alpha/static/media/home_background_hajime_kara.4a2c5938a2283b30b79b.png",
     "static/media/home_background_tsuzuki_kara.png": "/castle-coders-alpha/static/media/home_background_tsuzuki_kara.8920a20bc2db70e44c39.png",
@@ -22,12 +22,12 @@
     "static/media/heart_mark.png": "/castle-coders-alpha/static/media/heart_mark.8b22a05f9e0eed5003ec.png",
     "service-worker.js": "/castle-coders-alpha/service-worker.js",
     "index.html": "/castle-coders-alpha/index.html",
-    "main.aa83b9b6.css.map": "/castle-coders-alpha/static/css/main.aa83b9b6.css.map",
-    "main.9ef35e2a.js.map": "/castle-coders-alpha/static/js/main.9ef35e2a.js.map",
+    "main.134d4ba3.css.map": "/castle-coders-alpha/static/css/main.134d4ba3.css.map",
+    "main.3bdbf785.js.map": "/castle-coders-alpha/static/js/main.3bdbf785.js.map",
     "453.c7b2654d.chunk.js.map": "/castle-coders-alpha/static/js/453.c7b2654d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa83b9b6.css",
-    "static/js/main.9ef35e2a.js"
+    "static/css/main.134d4ba3.css",
+    "static/js/main.3bdbf785.js"
   ]
 }
