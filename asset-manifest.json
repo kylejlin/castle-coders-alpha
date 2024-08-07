@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/castle-coders-alpha/static/css/main.c232b120.css",
-    "main.js": "/castle-coders-alpha/static/js/main.1d73ee3f.js",
+    "main.js": "/castle-coders-alpha/static/js/main.f778151a.js",
     "static/js/453.c7b2654d.chunk.js": "/castle-coders-alpha/static/js/453.c7b2654d.chunk.js",
     "static/media/extended_home_background.png": "/castle-coders-alpha/static/media/extended_home_background.7d8d454f90e077240f24.png",
     "static/media/witch_wand_raised.png": "/castle-coders-alpha/static/media/witch_wand_raised.53f0d0a32e3b903270fc.png",
@@ -12,7 +12,7 @@
     "static/media/start.png": "/castle-coders-alpha/static/media/start.d262cfb0228bba682e26.png",
     "static/media/shop.png": "/castle-coders-alpha/static/media/shop.166f5ba7f48658fe2b24.png",
     "static/media/settings.png": "/castle-coders-alpha/static/media/settings.1c45397e32718cf40e5f.png",
-    "static/media/background.jpg": "/castle-coders-alpha/static/media/background.252a896f54c693d3262e.jpg",
+    "static/media/castle_interior.jpg": "/castle-coders-alpha/static/media/castle_interior.252a896f54c693d3262e.jpg",
     "static/media/heart_mark.png": "/castle-coders-alpha/static/media/heart_mark.8b22a05f9e0eed5003ec.png",
     "static/media/view.png": "/castle-coders-alpha/static/media/view.d58e38a4603f2f8f9e4c.png",
     "static/media/home.png": "/castle-coders-alpha/static/media/home.184507ac0292a8b67475.png",
@@ -22,11 +22,11 @@
     "service-worker.js": "/castle-coders-alpha/service-worker.js",
     "index.html": "/castle-coders-alpha/index.html",
     "main.c232b120.css.map": "/castle-coders-alpha/static/css/main.c232b120.css.map",
-    "main.1d73ee3f.js.map": "/castle-coders-alpha/static/js/main.1d73ee3f.js.map",
+    "main.f778151a.js.map": "/castle-coders-alpha/static/js/main.f778151a.js.map",
     "453.c7b2654d.chunk.js.map": "/castle-coders-alpha/static/js/453.c7b2654d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c232b120.css",
-    "static/js/main.1d73ee3f.js"
+    "static/js/main.f778151a.js"
   ]
 }
