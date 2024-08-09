@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/castle-coders-alpha/static/css/main.23ab160a.css",
-    "main.js": "/castle-coders-alpha/static/js/main.0e223902.js",
+    "main.js": "/castle-coders-alpha/static/js/main.27a2a843.js",
     "static/js/453.c7b2654d.chunk.js": "/castle-coders-alpha/static/js/453.c7b2654d.chunk.js",
     "static/media/extended_home_background.png": "/castle-coders-alpha/static/media/extended_home_background.7d8d454f90e077240f24.png",
     "static/media/witch_wand_raised.png": "/castle-coders-alpha/static/media/witch_wand_raised.53f0d0a32e3b903270fc.png",
@@ -27,11 +27,11 @@
     "static/media/close.png": "/castle-coders-alpha/static/media/close.b74271a41d658b416c55.png",
     "index.html": "/castle-coders-alpha/index.html",
     "main.23ab160a.css.map": "/castle-coders-alpha/static/css/main.23ab160a.css.map",
-    "main.0e223902.js.map": "/castle-coders-alpha/static/js/main.0e223902.js.map",
+    "main.27a2a843.js.map": "/castle-coders-alpha/static/js/main.27a2a843.js.map",
     "453.c7b2654d.chunk.js.map": "/castle-coders-alpha/static/js/453.c7b2654d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.23ab160a.css",
-    "static/js/main.0e223902.js"
+    "static/js/main.27a2a843.js"
   ]
 }
