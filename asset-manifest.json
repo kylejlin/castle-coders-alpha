@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/castle-coders-alpha/static/css/main.60feef95.css",
-    "main.js": "/castle-coders-alpha/static/js/main.15b13e1d.js",
+    "main.css": "/castle-coders-alpha/static/css/main.b60eb4c9.css",
+    "main.js": "/castle-coders-alpha/static/js/main.3660c98f.js",
     "static/js/453.c7b2654d.chunk.js": "/castle-coders-alpha/static/js/453.c7b2654d.chunk.js",
-    "static/media/NotoColorEmoji-Regular.ttf": "/castle-coders-alpha/static/media/NotoColorEmoji-Regular.e9859b48089358cdc923.ttf",
     "static/media/NotoSansJP-VariableFont_wght.ttf": "/castle-coders-alpha/static/media/NotoSansJP-VariableFont_wght.dcdea5bccffc06f61d18.ttf",
     "static/media/extended_home_background.png": "/castle-coders-alpha/static/media/extended_home_background.7d8d454f90e077240f24.png",
     "static/media/witch_wand_raised.png": "/castle-coders-alpha/static/media/witch_wand_raised.53f0d0a32e3b903270fc.png",
@@ -23,6 +22,7 @@
     "static/media/play.png": "/castle-coders-alpha/static/media/play.121561b266b828ac1de7.png",
     "static/media/edit.png": "/castle-coders-alpha/static/media/edit.b61b6adf7c4dbaf022b0.png",
     "static/media/pause.png": "/castle-coders-alpha/static/media/pause.c7744e166f82bd883613.png",
+    "static/media/TwemojiCountryFlags.woff2": "/castle-coders-alpha/static/media/TwemojiCountryFlags.e40fbca868d3568f1b57.woff2",
     "static/media/Lato-Regular.ttf": "/castle-coders-alpha/static/media/Lato-Regular.9d883d540ee2b4de8024.ttf",
     "static/media/reset_to_level_one.png": "/castle-coders-alpha/static/media/reset_to_level_one.65e5e464d7d79e2f1247.png",
     "static/media/credits.png": "/castle-coders-alpha/static/media/credits.f5854be87a7820fdf46a.png",
@@ -30,12 +30,12 @@
     "service-worker.js": "/castle-coders-alpha/service-worker.js",
     "static/media/close.png": "/castle-coders-alpha/static/media/close.b74271a41d658b416c55.png",
     "index.html": "/castle-coders-alpha/index.html",
-    "main.60feef95.css.map": "/castle-coders-alpha/static/css/main.60feef95.css.map",
-    "main.15b13e1d.js.map": "/castle-coders-alpha/static/js/main.15b13e1d.js.map",
+    "main.b60eb4c9.css.map": "/castle-coders-alpha/static/css/main.b60eb4c9.css.map",
+    "main.3660c98f.js.map": "/castle-coders-alpha/static/js/main.3660c98f.js.map",
     "453.c7b2654d.chunk.js.map": "/castle-coders-alpha/static/js/453.c7b2654d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.60feef95.css",
-    "static/js/main.15b13e1d.js"
+    "static/css/main.b60eb4c9.css",
+    "static/js/main.3660c98f.js"
   ]
 }
