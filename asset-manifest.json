@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/castle-coders-alpha/static/css/main.b60eb4c9.css",
-    "main.js": "/castle-coders-alpha/static/js/main.69b5415f.js",
+    "main.js": "/castle-coders-alpha/static/js/main.c7b8a4af.js",
     "static/js/453.c7b2654d.chunk.js": "/castle-coders-alpha/static/js/453.c7b2654d.chunk.js",
     "static/media/NotoSansJP-VariableFont_wght.ttf": "/castle-coders-alpha/static/media/NotoSansJP-VariableFont_wght.dcdea5bccffc06f61d18.ttf",
     "static/media/extended_home_background.png": "/castle-coders-alpha/static/media/extended_home_background.7d8d454f90e077240f24.png",
@@ -11,6 +11,16 @@
     "static/media/hero.png": "/castle-coders-alpha/static/media/hero.b3c6e446a86fd41ca157.png",
     "static/media/SawarabiMincho-Regular.ttf": "/castle-coders-alpha/static/media/SawarabiMincho-Regular.13c4f00e152a364c27bd.ttf",
     "static/media/goblin.png": "/castle-coders-alpha/static/media/goblin.940426bcab991d76a040.png",
+    "static/media/part2.drag_blue_block.ja-JP.png": "/castle-coders-alpha/static/media/part2.drag_blue_block.ja-JP.e7385d14409aff0b110c.png",
+    "static/media/part1.move_the_hero.ja-JP.png": "/castle-coders-alpha/static/media/part1.move_the_hero.ja-JP.410a4a788f7fe0fa6106.png",
+    "static/media/part2.drag_blue_block.en-US.png": "/castle-coders-alpha/static/media/part2.drag_blue_block.en-US.e2826bd35f42bcca2450.png",
+    "static/media/part3.drag_another_block.ja-JP.png": "/castle-coders-alpha/static/media/part3.drag_another_block.ja-JP.9ae1bc5476a6ae0cdd3b.png",
+    "static/media/part1.move_the_hero.en-US.png": "/castle-coders-alpha/static/media/part1.move_the_hero.en-US.46a1442b2d2e551a37cd.png",
+    "static/media/part3.drag_another_block.en-US.png": "/castle-coders-alpha/static/media/part3.drag_another_block.en-US.9b7f85cc8ebb9a8356dd.png",
+    "static/media/part4.press_view.en-US.png": "/castle-coders-alpha/static/media/part4.press_view.en-US.778766c9674c1f5c5e49.png",
+    "static/media/part4.press_view.ja-JP.png": "/castle-coders-alpha/static/media/part4.press_view.ja-JP.37c8f62d3210d45dbfbe.png",
+    "static/media/part5.press_play.ja-JP.png": "/castle-coders-alpha/static/media/part5.press_play.ja-JP.4ef106b0226769458d55.png",
+    "static/media/part5.press_play.en-US.png": "/castle-coders-alpha/static/media/part5.press_play.en-US.b2172db92c3902c4df4a.png",
     "static/media/settings_box.png": "/castle-coders-alpha/static/media/settings_box.393da74ad98ab98eb37d.png",
     "static/media/start.png": "/castle-coders-alpha/static/media/start.d262cfb0228bba682e26.png",
     "static/media/shop.png": "/castle-coders-alpha/static/media/shop.166f5ba7f48658fe2b24.png",
@@ -31,11 +41,11 @@
     "static/media/close.png": "/castle-coders-alpha/static/media/close.b74271a41d658b416c55.png",
     "index.html": "/castle-coders-alpha/index.html",
     "main.b60eb4c9.css.map": "/castle-coders-alpha/static/css/main.b60eb4c9.css.map",
-    "main.69b5415f.js.map": "/castle-coders-alpha/static/js/main.69b5415f.js.map",
+    "main.c7b8a4af.js.map": "/castle-coders-alpha/static/js/main.c7b8a4af.js.map",
     "453.c7b2654d.chunk.js.map": "/castle-coders-alpha/static/js/453.c7b2654d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b60eb4c9.css",
-    "static/js/main.69b5415f.js"
+    "static/js/main.c7b8a4af.js"
   ]
 }
