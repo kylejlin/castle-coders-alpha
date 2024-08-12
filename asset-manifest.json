@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/castle-coders-alpha/static/css/main.b60eb4c9.css",
-    "main.js": "/castle-coders-alpha/static/js/main.c7b8a4af.js",
+    "main.js": "/castle-coders-alpha/static/js/main.55734da5.js",
     "static/js/453.c7b2654d.chunk.js": "/castle-coders-alpha/static/js/453.c7b2654d.chunk.js",
     "static/media/NotoSansJP-VariableFont_wght.ttf": "/castle-coders-alpha/static/media/NotoSansJP-VariableFont_wght.dcdea5bccffc06f61d18.ttf",
     "static/media/extended_home_background.png": "/castle-coders-alpha/static/media/extended_home_background.7d8d454f90e077240f24.png",
@@ -38,14 +38,15 @@
     "static/media/credits.png": "/castle-coders-alpha/static/media/credits.f5854be87a7820fdf46a.png",
     "static/media/language.png": "/castle-coders-alpha/static/media/language.cab99e5f5162e6a87af2.png",
     "service-worker.js": "/castle-coders-alpha/service-worker.js",
+    "static/media/finger.png": "/castle-coders-alpha/static/media/finger.24ebd2feaba6d65f445c.png",
     "static/media/close.png": "/castle-coders-alpha/static/media/close.b74271a41d658b416c55.png",
     "index.html": "/castle-coders-alpha/index.html",
     "main.b60eb4c9.css.map": "/castle-coders-alpha/static/css/main.b60eb4c9.css.map",
-    "main.c7b8a4af.js.map": "/castle-coders-alpha/static/js/main.c7b8a4af.js.map",
+    "main.55734da5.js.map": "/castle-coders-alpha/static/js/main.55734da5.js.map",
     "453.c7b2654d.chunk.js.map": "/castle-coders-alpha/static/js/453.c7b2654d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b60eb4c9.css",
-    "static/js/main.c7b8a4af.js"
+    "static/js/main.55734da5.js"
   ]
 }
