@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/castle-coders-alpha/static/css/main.472f9a1d.css",
-    "main.js": "/castle-coders-alpha/static/js/main.97b8cadd.js",
+    "main.css": "/castle-coders-alpha/static/css/main.82f10b4e.css",
+    "main.js": "/castle-coders-alpha/static/js/main.22cc0bd0.js",
     "static/js/453.b53a8b75.chunk.js": "/castle-coders-alpha/static/js/453.b53a8b75.chunk.js",
     "static/media/NotoSansJP-VariableFont_wght.ttf": "/castle-coders-alpha/static/media/NotoSansJP-VariableFont_wght.dcdea5bccffc06f61d18.ttf",
     "static/media/extended_home_background.png": "/castle-coders-alpha/static/media/extended_home_background.7d8d454f90e077240f24.png",
+    "static/media/CP Font.otf": "/castle-coders-alpha/static/media/CP Font.89e8e3a5712d48708f39.otf",
     "static/media/witch_wand_raised.png": "/castle-coders-alpha/static/media/witch_wand_raised.53f0d0a32e3b903270fc.png",
     "static/media/witch_wand_lowered.png": "/castle-coders-alpha/static/media/witch_wand_lowered.8c3d90f34c476ac76124.png",
     "static/media/witch_idle.png": "/castle-coders-alpha/static/media/witch_idle.9d11e38e1b4289419703.png",
@@ -51,12 +52,12 @@
     "static/media/finger.png": "/castle-coders-alpha/static/media/finger.24ebd2feaba6d65f445c.png",
     "static/media/close.png": "/castle-coders-alpha/static/media/close.b74271a41d658b416c55.png",
     "index.html": "/castle-coders-alpha/index.html",
-    "main.472f9a1d.css.map": "/castle-coders-alpha/static/css/main.472f9a1d.css.map",
-    "main.97b8cadd.js.map": "/castle-coders-alpha/static/js/main.97b8cadd.js.map",
+    "main.82f10b4e.css.map": "/castle-coders-alpha/static/css/main.82f10b4e.css.map",
+    "main.22cc0bd0.js.map": "/castle-coders-alpha/static/js/main.22cc0bd0.js.map",
     "453.b53a8b75.chunk.js.map": "/castle-coders-alpha/static/js/453.b53a8b75.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.472f9a1d.css",
-    "static/js/main.97b8cadd.js"
+    "static/css/main.82f10b4e.css",
+    "static/js/main.22cc0bd0.js"
   ]
 }
