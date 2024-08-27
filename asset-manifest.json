@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/castle-coders-alpha/static/css/main.82f10b4e.css",
-    "main.js": "/castle-coders-alpha/static/js/main.9ed72ef5.js",
+    "main.js": "/castle-coders-alpha/static/js/main.ac33d363.js",
     "static/js/707.6cb81d88.chunk.js": "/castle-coders-alpha/static/js/707.6cb81d88.chunk.js",
     "static/js/828.6ac05289.chunk.js": "/castle-coders-alpha/static/js/828.6ac05289.chunk.js",
     "static/js/484.909a92b8.chunk.js": "/castle-coders-alpha/static/js/484.909a92b8.chunk.js",
@@ -25,9 +25,9 @@
     "static/media/settings.png": "/castle-coders-alpha/static/media/settings.1c45397e32718cf40e5f.png",
     "static/media/castle_interior.jpg": "/castle-coders-alpha/static/media/castle_interior.252a896f54c693d3262e.jpg",
     "static/media/heart_mark.png": "/castle-coders-alpha/static/media/heart_mark.8b22a05f9e0eed5003ec.png",
+    "static/media/success_music.mp3": "/castle-coders-alpha/static/media/success_music.afad66f56ee264c1489e.mp3",
     "static/media/fireball_launch.mp3": "/castle-coders-alpha/static/media/fireball_launch.10e7032110a71e245357.mp3",
     "static/media/view.png": "/castle-coders-alpha/static/media/view.d58e38a4603f2f8f9e4c.png",
-    "static/media/success_music.mp3": "/castle-coders-alpha/static/media/success_music.4edd5b2e303643833df5.mp3",
     "static/media/home.png": "/castle-coders-alpha/static/media/home.184507ac0292a8b67475.png",
     "static/media/play.png": "/castle-coders-alpha/static/media/play.121561b266b828ac1de7.png",
     "static/media/edit.png": "/castle-coders-alpha/static/media/edit.b61b6adf7c4dbaf022b0.png",
@@ -50,10 +50,11 @@
     "static/media/witch_yelp.mp3": "/castle-coders-alpha/static/media/witch_yelp.a3a14770c669e5ebfdc3.mp3",
     "static/media/character_movement.mp3": "/castle-coders-alpha/static/media/character_movement.2a86842e05a8cddf8b3e.mp3",
     "static/media/club_attack.mp3": "/castle-coders-alpha/static/media/club_attack.68a253eee29102004b26.mp3",
-    "static/media/button_pop.mp3": "/castle-coders-alpha/static/media/button_pop.6479ea3320886d49fd44.mp3",
+    "static/media/block_pop.mp3": "/castle-coders-alpha/static/media/block_pop.118caa1c1c266cbde819.mp3",
+    "static/media/button_pop.mp3": "/castle-coders-alpha/static/media/button_pop.a629d5bb0b3ce6cf961c.mp3",
     "index.html": "/castle-coders-alpha/index.html",
     "main.82f10b4e.css.map": "/castle-coders-alpha/static/css/main.82f10b4e.css.map",
-    "main.9ed72ef5.js.map": "/castle-coders-alpha/static/js/main.9ed72ef5.js.map",
+    "main.ac33d363.js.map": "/castle-coders-alpha/static/js/main.ac33d363.js.map",
     "707.6cb81d88.chunk.js.map": "/castle-coders-alpha/static/js/707.6cb81d88.chunk.js.map",
     "828.6ac05289.chunk.js.map": "/castle-coders-alpha/static/js/828.6ac05289.chunk.js.map",
     "484.909a92b8.chunk.js.map": "/castle-coders-alpha/static/js/484.909a92b8.chunk.js.map",
@@ -61,6 +62,6 @@
   },
   "entrypoints": [
     "static/css/main.82f10b4e.css",
-    "static/js/main.9ed72ef5.js"
+    "static/js/main.ac33d363.js"
   ]
 }
