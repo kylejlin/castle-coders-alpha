@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/castle-coders-alpha/static/css/main.82f10b4e.css",
-    "main.js": "/castle-coders-alpha/static/js/main.f199a0f4.js",
+    "main.js": "/castle-coders-alpha/static/js/main.9ed72ef5.js",
     "static/js/707.6cb81d88.chunk.js": "/castle-coders-alpha/static/js/707.6cb81d88.chunk.js",
     "static/js/828.6ac05289.chunk.js": "/castle-coders-alpha/static/js/828.6ac05289.chunk.js",
     "static/js/484.909a92b8.chunk.js": "/castle-coders-alpha/static/js/484.909a92b8.chunk.js",
@@ -9,13 +9,14 @@
     "static/media/NotoSansJP-VariableFont_wght.ttf": "/castle-coders-alpha/static/media/NotoSansJP-VariableFont_wght.dcdea5bccffc06f61d18.ttf",
     "static/media/extended_home_background.png": "/castle-coders-alpha/static/media/extended_home_background.7d8d454f90e077240f24.png",
     "static/media/CP Font.otf": "/castle-coders-alpha/static/media/CP Font.89e8e3a5712d48708f39.otf",
+    "static/media/puzzle_music.mp3": "/castle-coders-alpha/static/media/puzzle_music.3d5bd921fc8ffbe45f3c.mp3",
     "static/media/witch_wand_raised.png": "/castle-coders-alpha/static/media/witch_wand_raised.53f0d0a32e3b903270fc.png",
     "static/media/witch_wand_lowered.png": "/castle-coders-alpha/static/media/witch_wand_lowered.8c3d90f34c476ac76124.png",
     "static/media/witch_idle.png": "/castle-coders-alpha/static/media/witch_idle.9d11e38e1b4289419703.png",
+    "static/media/greensleeves.mp3": "/castle-coders-alpha/static/media/greensleeves.2eee5582e41e49710594.mp3",
     "static/media/hero.png": "/castle-coders-alpha/static/media/hero.b3c6e446a86fd41ca157.png",
     "static/media/SawarabiMincho-Regular.ttf": "/castle-coders-alpha/static/media/SawarabiMincho-Regular.13c4f00e152a364c27bd.ttf",
     "static/media/goblin.png": "/castle-coders-alpha/static/media/goblin.940426bcab991d76a040.png",
-    "static/media/greensleeves.mp3": "/castle-coders-alpha/static/media/greensleeves.65485dad362151d7efa8.mp3",
     "static/media/tall_instructions_box.png": "/castle-coders-alpha/static/media/tall_instructions_box.68546587dfc4c6d54f4d.png",
     "static/media/short_instructions_box.png": "/castle-coders-alpha/static/media/short_instructions_box.dcd9f067470ba62acde3.png",
     "static/media/settings_box.png": "/castle-coders-alpha/static/media/settings_box.393da74ad98ab98eb37d.png",
@@ -52,7 +53,7 @@
     "static/media/button_pop.mp3": "/castle-coders-alpha/static/media/button_pop.6479ea3320886d49fd44.mp3",
     "index.html": "/castle-coders-alpha/index.html",
     "main.82f10b4e.css.map": "/castle-coders-alpha/static/css/main.82f10b4e.css.map",
-    "main.f199a0f4.js.map": "/castle-coders-alpha/static/js/main.f199a0f4.js.map",
+    "main.9ed72ef5.js.map": "/castle-coders-alpha/static/js/main.9ed72ef5.js.map",
     "707.6cb81d88.chunk.js.map": "/castle-coders-alpha/static/js/707.6cb81d88.chunk.js.map",
     "828.6ac05289.chunk.js.map": "/castle-coders-alpha/static/js/828.6ac05289.chunk.js.map",
     "484.909a92b8.chunk.js.map": "/castle-coders-alpha/static/js/484.909a92b8.chunk.js.map",
@@ -60,6 +61,6 @@
   },
   "entrypoints": [
     "static/css/main.82f10b4e.css",
-    "static/js/main.f199a0f4.js"
+    "static/js/main.9ed72ef5.js"
   ]
 }
