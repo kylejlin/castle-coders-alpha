@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/castle-coders-alpha/static/css/main.cae17347.css",
-    "main.js": "/castle-coders-alpha/static/js/main.b965dd8d.js",
+    "main.js": "/castle-coders-alpha/static/js/main.b9284798.js",
     "static/js/707.6cb81d88.chunk.js": "/castle-coders-alpha/static/js/707.6cb81d88.chunk.js",
     "static/js/828.6ac05289.chunk.js": "/castle-coders-alpha/static/js/828.6ac05289.chunk.js",
     "static/js/484.909a92b8.chunk.js": "/castle-coders-alpha/static/js/484.909a92b8.chunk.js",
@@ -57,7 +57,7 @@
     "static/media/button_pop.mp3": "/castle-coders-alpha/static/media/button_pop.a629d5bb0b3ce6cf961c.mp3",
     "index.html": "/castle-coders-alpha/index.html",
     "main.cae17347.css.map": "/castle-coders-alpha/static/css/main.cae17347.css.map",
-    "main.b965dd8d.js.map": "/castle-coders-alpha/static/js/main.b965dd8d.js.map",
+    "main.b9284798.js.map": "/castle-coders-alpha/static/js/main.b9284798.js.map",
     "707.6cb81d88.chunk.js.map": "/castle-coders-alpha/static/js/707.6cb81d88.chunk.js.map",
     "828.6ac05289.chunk.js.map": "/castle-coders-alpha/static/js/828.6ac05289.chunk.js.map",
     "484.909a92b8.chunk.js.map": "/castle-coders-alpha/static/js/484.909a92b8.chunk.js.map",
@@ -68,6 +68,6 @@
   },
   "entrypoints": [
     "static/css/main.cae17347.css",
-    "static/js/main.b965dd8d.js"
+    "static/js/main.b9284798.js"
   ]
 }
